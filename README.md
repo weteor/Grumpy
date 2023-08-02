@@ -27,7 +27,7 @@ Apart from the pcb and optionally a case you need:
 - 1 Controller
 
 ### firmware
-firmware configs for qmk and vial can be found in the [firmware folder].
+firmware configs for qmk and vial can be found in the [firmware folder](./firmware).
 
 The first time the pcb is plugged in, the bootloader will provide a drive to upload the firmware file. 
 
