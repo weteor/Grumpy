@@ -81,5 +81,4 @@ If you would like to send me a tip, you could do it [here](https://ko-fi.com/wet
 ### more pictures
 
 ![top](img/grumpy_mjf.png)
-
-  <img title="" src="img/grumpies.jpg" alt="top" data-align="inline">
+![top](img/grumpies.jpg)
