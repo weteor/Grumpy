@@ -68,7 +68,7 @@ The first time the pcb is plugged in, the bootloader will provide a drive to upl
 
 ###### CH552T-Version:
 
-firmware config for FAK can be found in the firmware folder. Please also see [FAK-Firmware site]([GitHub - semickolon/fak: F.A. Keyboard Firmware](https://github.com/semickolon/fak) for more information
+firmware config for FAK can be found in the firmware folder. Please also see [FAK-Firmware site](https://github.com/semickolon/fak) for more information
 
 Bootloader should be available on first plugins until firmware is written. After that either use the firmware BOOT to go into bootloader, or hold the boot button on the pcb pressed while pluggin in the usb cable.
 
