@@ -66,7 +66,7 @@ firmware configs for qmk and vial can be found in the [firmware folder](./firmwa
 
 The first time the pcb is plugged in, the bootloader will provide a drive to upload the firmware file. 
 
-CH552T-Version:
+###### CH552T-Version:
 
 firmware config for FAK can be found in the firmware folder. Please also see [FAK-Firmware site]([GitHub - semickolon/fak: F.A. Keyboard Firmware](https://github.com/semickolon/fak) for more information
 
