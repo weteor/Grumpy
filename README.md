@@ -2,12 +2,14 @@
 
 28 key (3-row) angled unibody keyboard with col stagger 
 
-![top](img/grumpy.png)
+<img src="img/grumpy.png" title="" alt="top" data-align="inline">
 
 ## Features
 
-###### Xiao-Version:
+###### MX Xiao-Version:
 
+- spacing: MX
+- case: open bottom (3dp)
 - Hotswap sockets (MX)
 - Seeed Xiao Controller
   - RP2040 (w/ QMK, Vial)
@@ -16,10 +18,24 @@
 - gerber and case files are supplied (kicad files, stl as well as cadquery files)
 - completely open source, permissive license ([CERN-OHL-P](https://cern-ohl.web.cern.ch/home))
 
-###### CH552T-Version:
+###### MX/ChocV2 CH552T-Version:
 
+- spacing: MX
+- case: top w/ bottom plate (top and bottom 3dp)
 - Hotswap sockets (MX and Choc V1/V2)
 - CH552T Controller (w/ FAK firmware)
+- gerber and case files are supplied (kicad files, stl as well as cadquery files)
+- completely open source, permissive license ([CERN-OHL-P](https://cern-ohl.web.cern.ch/home))
+
+###### ChocV1 Xiao-Version:
+
+- spacing: choc
+- case: top w/ bottom plate (top 3dp/cnc, bottom 3dp)
+- Hotswap sockets (Choc V1)
+- Seeed Xiao Controller
+  - RP2040 (w/ QMK, Vial)
+  - BLE (w/ZMK)
+  - SAMD21 (should work, don't have one to test)
 - gerber and case files are supplied (kicad files, stl as well as cadquery files)
 - completely open source, permissive license ([CERN-OHL-P](https://cern-ohl.web.cern.ch/home))
 
@@ -80,5 +96,5 @@ If you would like to send me a tip, you could do it [here](https://ko-fi.com/wet
 
 ### more pictures
 
-![top](img/grumpy_mjf.png)
+![top](img/choc_v1_alu.jpg)
 ![top](img/grumpies.jpg)

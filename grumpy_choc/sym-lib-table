@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "mcu")(type "KiCad")(uri "/home/weteor/.build/kleeb/mcu.kicad_sym")(options "")(descr ""))
+)
